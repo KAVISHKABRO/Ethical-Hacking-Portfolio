@@ -4,7 +4,7 @@
 
 This project documents my practical web application security testing exercises using OWASP Juice Shop, an intentionally vulnerable web application designed for security training.
 
-The tests were performed in my own isolated Docker-based lab using Kali Linux. The purpose was to understand network reconnaissance, HTTP traffic analysis, input handling, and access control vulnerabilities.
+The tests were performed in my own isolated Docker based lab using Kali Linux. The purpose was to understand network reconnaissance, HTTP traffic analysis, input handling, and access control vulnerabilities.
 
 ## 2. Objectives
 
